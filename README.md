@@ -22,9 +22,9 @@ $( ".custom2" ).dinoSlider();
 
 Properties
 
-'navControlls':  true,(boolean) Show or hide nav controlls.
-'delay' :  6000,(Integer) set Dealy of slide
-'showLoader' :  true,(boolean)Show or hide loader. 
-'mouseHover' :  true,(boolean)Controll mouse hover action on slider
-'autoPlay' :   true,(boolean) controll auto Play
-'autoHeight' :  true,(boolean) controll auto Height
+'navControlls':  true,(boolean) Show or hide nav controlls.<br>
+'delay' :  6000,(Integer) set Dealy of slide<br>
+'showLoader' :  true,(boolean)Show or hide loader. <br>
+'mouseHover' :  true,(boolean)Controll mouse hover action on slider<br>
+'autoPlay' :   true,(boolean) controll auto Play<br>
+'autoHeight' :  true,(boolean) controll auto Height<br>
