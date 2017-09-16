@@ -1,0 +1,106 @@
+/*
+ Theme Name:     Dino
+ Author:         dino 
+ Template:       twentyseventeen
+ Version:        1.0.0
+*/ 
+/* Add Custom CSS after this line */
+
+body{
+    
+}
+ .dino{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    left:0;
+    /*width: 5000px;*/
+    -webkit-transition: left 1s;
+    -ms-transition: left 1s;
+    transition: left 1s;
+    position: relative;
+    cursor: pointer;
+  }
+  .dino_cover{
+    width:100%;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    -webkit-transition: height 1s;
+    -ms-transition: height 1s;
+    transition: height 1s;
+    padding: 0px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .item_dino{
+    float: left;
+    max-width: 100%;
+    position: relative;
+  }
+  .item_dino img{
+    max-width: 100%;
+  }
+  .item_dino .innerItem{
+    position: absolute;
+    opacity: 0;
+    margin: auto;
+  }
+  
+  .navControlls{
+    position: absolute;
+    bottom: 25px;
+    left:0px;
+    right: 0px;
+    margin:auto;
+    text-align: center;
+  }
+  .navControlls span{
+    display: inline-block;
+    padding: 5px;
+    background: #FFFFFF;
+    cursor: pointer;
+    border-radius: 50%;
+    margin: 2px;
+    border: 1px solid transparent;
+    -webkit-box-shadow: -4px -4px 9px -4px rgba(84,83,84,1);
+    -moz-box-shadow: -4px -4px 9px -4px rgba(84,83,84,1);
+    box-shadow: -4px -4px 9px -4px rgba(84,83,84,1);
+  }
+  .navControlls span.active{
+    border: 1px solid #000000;
+  }
+  .sideControlls span {
+    border: solid #FFFFFF;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 12px;
+    cursor: pointer;
+    position: absolute;
+    top:48%;
+  }
+
+  .right {
+      transform: rotate(-45deg);
+      -webkit-transform: rotate(-45deg);
+      right: 20px;
+  }
+
+  .left {
+      transform: rotate(135deg);
+      -webkit-transform: rotate(135deg);
+      left: 20px;
+}
+ .dino_cover .loader{
+    position: absolute;
+    padding: 2px 0px;
+    background: #FFFFFF;
+    top:0px;
+    left:0px;
+    display: none;
+    border-radius: 5px
+ }
