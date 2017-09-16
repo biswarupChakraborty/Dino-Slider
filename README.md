@@ -22,9 +22,12 @@ $( ".custom2" ).dinoSlider();
 
 Properties
 
-'navControlls':  true,(boolean) Show or hide nav controlls.<br>
-'delay' :  6000,(Integer) set Dealy of slide<br>
-'showLoader' :  true,(boolean)Show or hide loader. <br>
-'mouseHover' :  true,(boolean)Controll mouse hover action on slider<br>
-'autoPlay' :   true,(boolean) controll auto Play<br>
-'autoHeight' :  true,(boolean) controll auto Height<br>
+<p class="textAreaD property">
+					<span><span class="pink">'navControlls'</span>:&nbsp;&nbsp;<span class="fontRed">true,</span>(boolean)</span> <span class="hash">Show or hide nav controlls.</span><br>
+					<span><span class="pink">'delay'		</span>:&nbsp;&nbsp;<span class="fontRed">6000,</span>(Integer)</span> <span class="hash">set Dealy of slide</span><br>
+					<span><span class="pink">'showLoader'	</span>:&nbsp;&nbsp;<span class="fontRed">true,</span>(boolean)</span><span class="hash">Show or hide loader.</span> <br>
+					<span><span class="pink">'mouseHover'	</span>:&nbsp;&nbsp;<span class="fontRed">true,</span>(boolean)</span><span class="hash">Controll mouse hover action on slider</span><br>
+					<span><span class="pink">'autoPlay' 	</span>:&nbsp;&nbsp; <span class="fontRed">true,</span>(boolean)</span> <span class="hash">controll auto Play</span><br>
+					<span><span class="pink">'autoHeight'	</span>:&nbsp;&nbsp;<span class="fontRed">true,</span>(boolean)</span> <span class="hash">controll auto Height</span><br>
+					<!--span>'mouseDrag':false,(boolean)</span><br-->
+				</p>
