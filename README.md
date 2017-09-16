@@ -1,12 +1,13 @@
 # Dino-Slider
-basic Link
-
-jQuery Link..
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-Plugins js Link..
-<script src="//dino.js"></script>
-Plugins css Link..
-<link rel="stylesheet" href="//dino.css">
+<h3>basic Link</h3>
+				<p class="textAreaD">
+					jQuery Link..<br>
+					<span class="fontRed"><span>&lt;</span>script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"&gt;<span>&lt;</span>/script<span>&gt;</span></span><br>
+					Plugins js Link..<br>
+					<span class="fontRed"><span>&lt;</span>script src="//dino.js"&gt;<span>&lt;</span>/script<span>&gt;</span></span><br>
+					Plugins css Link..<br>
+					<span class="fontRed"><span>&lt;</span>link rel="stylesheet" href="//dino.css"&gt;</span>
+				</p>
 
 Basic HTML
 
