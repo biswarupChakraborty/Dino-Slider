@@ -10,11 +10,11 @@ Plugins css Link..
 
 Basic HTML
 
-<div class="custom2">
-    <div><img src='//img/1.jpg' alt=''></div>
-    <div><img src='//img/2.jpg' alt=''></div>
-    <div><img src='//img/3.jpg' alt=''></div>
-</div>
+<span>&lt;</span>div class=<span class="fontRed">"custom2"</span>&gt;<br>
+					    &nbsp;&nbsp;&nbsp;&nbsp;<span>&lt;</span>div&gt;<span>&lt;</span>img src='//img/1.jpg' alt=''&gt;<span>&lt;</span>/div<span>&gt;</span><br>
+					    &nbsp;&nbsp;&nbsp;&nbsp;<span>&lt;</span>div&gt;<span>&lt;</span>img src='//img/2.jpg' alt=''&gt;<span>&lt;</span>/div<span>&gt;</span><br>
+					    &nbsp;&nbsp;&nbsp;&nbsp;<span>&lt;</span>div&gt;<span>&lt;</span>img src='//img/3.jpg' alt=''&gt;<span>&lt;</span>/div<span>&gt;</span><br>
+				  	<span>&lt;</span>/div<span>&gt;</span>
 
 Call Dino
 
